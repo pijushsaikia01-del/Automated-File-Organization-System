@@ -43,8 +43,7 @@ Project Structure
 ```
 FileOrganizer/
 │── organizer.py
-│── README.md
-│── screenshot.png (optional)
+│── screenshot.png
 │── dist/
 │   └── organizer.exe
 ```
