@@ -61,12 +61,19 @@ How It Works
 ---
 
 Screenshots
-1. Test Folder.png
-2. GUI.png
-3. Output 1.png
-4. Output 2.png
-5. Output 3.png
+## Screenshots
 
+### Application Interface
+![GUI](GUI.png)
+
+### Organized Images Folder
+![Output1](Output1.png)
+
+### Documents Organized (Year-wise)
+![Output2](Output2.png)
+
+### Multiple Files Organized
+![Output3](Output3.png)
 ---
 
 Future Improvements
